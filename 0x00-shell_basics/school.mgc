@@ -1,2 +1,2 @@
-#!/bin/bash
-magic 0 string 'SCHOOL' 'String: SCHOOL found'
+0	string		"school"		data
+!:mime  text/data
