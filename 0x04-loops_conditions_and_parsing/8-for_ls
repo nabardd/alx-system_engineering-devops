@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Prints whatever is after the first - in filename
 
 list=$(ls)
 

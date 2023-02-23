@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Prints bad luck on the 4th iteration 
+# and good luck on the 8th iteration
 
 x=0
 

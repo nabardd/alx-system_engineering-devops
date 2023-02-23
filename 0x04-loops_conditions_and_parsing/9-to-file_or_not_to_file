@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Performs file checks on specified file
 
 file="./school"
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Prints Hi on the 9th iteration
 
 x=0
 

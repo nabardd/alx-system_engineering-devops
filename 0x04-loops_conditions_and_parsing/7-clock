@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Emulates a clock in the 12 hour format
+
 
 hour=0
 minutes=1
