@@ -1,5 +1,5 @@
 # install a package using puppet-lint
 
-exec { 'puppet-lint':
-    command => '/usr/bin/apt-get -y install puppet-lint -v 2.5.0'
+exec { 'pip3':
+    command => 'install flask==2.1.0'
 }
